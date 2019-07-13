@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:permission_handler] /home/akash/AndroidStudioProjects/test123/build/permission_handler/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] /home/akash/AndroidStudioProjects/test123/build/geolocator/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-10:12
+MERGED from [:android_intent] /home/akash/AndroidStudioProjects/test123/build/android_intent/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_api_availability] /home/akash/AndroidStudioProjects/test123/build/google_api_availability/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/961fff1691e1352f613126005dee7917/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/41ded82df093adab24cf23dfc905606d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/040bbe23995db59b567ca1e3fd2b4c60/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5ebcf42f6ce3115a45e67b73e964fa3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cd82818c87fc8ce7b448a78c4c7032ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fe12b7b3ea5e02e7148333994ae8f5e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d2b8b34a2c4bae27f21d50e768889701/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/38e28effdc7cdd57b63a7a8095819310/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/995e7c0c3d722d078cfe375eea29760a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d5f385e06fd68f70b6865332247ce5f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/244332b2da8f1fd16eb9c1f08c09932f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51ab55d9920ee7dfcd82c845bf27fc94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/54b4eb295c1f353148a470547a7e7ad6/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [:geolocator] /home/akash/AndroidStudioProjects/test123/build/geolocator/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] /home/akash/AndroidStudioProjects/test123/build/geolocator/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [:geolocator] /home/akash/AndroidStudioProjects/test123/build/geolocator/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-81
+MERGED from [:geolocator] /home/akash/AndroidStudioProjects/test123/build/geolocator/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:17:5-40:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/961fff1691e1352f613126005dee7917/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/961fff1691e1352f613126005dee7917/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/41ded82df093adab24cf23dfc905606d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/41ded82df093adab24cf23dfc905606d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/040bbe23995db59b567ca1e3fd2b4c60/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/040bbe23995db59b567ca1e3fd2b4c60/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:icon
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:18:9-57
+activity#com.akash.test123.MainActivity
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:21:9-39:20
+	android:launchMode
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:23:13-43
+	android:hardwareAccelerated
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:27:13-55
+	android:configChanges
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:25:13-137
+	android:theme
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:22:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:32:13-34:40
+	android:value
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:34:17-37
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:33:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+MERGED from [:permission_handler] /home/akash/AndroidStudioProjects/test123/build/permission_handler/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /home/akash/AndroidStudioProjects/test123/build/permission_handler/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /home/akash/AndroidStudioProjects/test123/build/geolocator/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /home/akash/AndroidStudioProjects/test123/build/geolocator/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:android_intent] /home/akash/AndroidStudioProjects/test123/build/android_intent/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:android_intent] /home/akash/AndroidStudioProjects/test123/build/android_intent/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /home/akash/AndroidStudioProjects/test123/build/google_api_availability/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /home/akash/AndroidStudioProjects/test123/build/google_api_availability/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/961fff1691e1352f613126005dee7917/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/961fff1691e1352f613126005dee7917/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/41ded82df093adab24cf23dfc905606d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/41ded82df093adab24cf23dfc905606d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/040bbe23995db59b567ca1e3fd2b4c60/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/040bbe23995db59b567ca1e3fd2b4c60/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5ebcf42f6ce3115a45e67b73e964fa3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5ebcf42f6ce3115a45e67b73e964fa3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cd82818c87fc8ce7b448a78c4c7032ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cd82818c87fc8ce7b448a78c4c7032ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fe12b7b3ea5e02e7148333994ae8f5e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fe12b7b3ea5e02e7148333994ae8f5e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d2b8b34a2c4bae27f21d50e768889701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d2b8b34a2c4bae27f21d50e768889701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/38e28effdc7cdd57b63a7a8095819310/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/38e28effdc7cdd57b63a7a8095819310/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/995e7c0c3d722d078cfe375eea29760a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/995e7c0c3d722d078cfe375eea29760a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d5f385e06fd68f70b6865332247ce5f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d5f385e06fd68f70b6865332247ce5f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/244332b2da8f1fd16eb9c1f08c09932f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/244332b2da8f1fd16eb9c1f08c09932f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51ab55d9920ee7dfcd82c845bf27fc94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51ab55d9920ee7dfcd82c845bf27fc94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/54b4eb295c1f353148a470547a7e7ad6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/54b4eb295c1f353148a470547a7e7ad6/AndroidManifest.xml:20:5-44
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akash/AndroidStudioProjects/test123/android/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b54308ca9dc2add0ccb10b9032f01cb2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/akash/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/83a41dbcbad24bba288546282cd3cc79/AndroidManifest.xml:24:13-58

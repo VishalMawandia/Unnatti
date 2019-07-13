@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/akash/AndroidStudioProjects/test123/build/permission_handler/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/995e7c0c3d722d078cfe375eea29760a/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/akash/AndroidStudioProjects/test123/build/permission_handler/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/995e7c0c3d722d078cfe375eea29760a/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/akash/AndroidStudioProjects/test123/build/permission_handler/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/995e7c0c3d722d078cfe375eea29760a/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/akash/AndroidStudioProjects/test123/build/permission_handler/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/995e7c0c3d722d078cfe375eea29760a/res/drawable/notification_bg_low.xml"
+    }
+]
